@@ -1,5 +1,7 @@
-# Portfolio-Two
+![GitHub License](https://img.shields.io/badge/HTML-Code-informational) ![GitHub License](https://img.shields.io/badge/Materlialize-CSS-informational) 
 
+
+# Portfolio-Two
 
 ## Objective
 
