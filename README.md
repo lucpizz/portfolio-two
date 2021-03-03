@@ -16,15 +16,11 @@ Create a dynamic and updateable portfolio website that showcases "Full Stack Dev
    - projects.html - Project webpage listing two projects that utilized technologies such as HTML, CSS, Javascript, JQuery, AJAX, etc.
    - pictures.html - Picture webpage that displays pictures taken along the Connecticut River (hobby)
 
-2. Asset directory
-
-   - CSS file - attributes to the design of the webpages
-
-3. Images directory
+2. Images directory
 
    - Screenshots of webpages and pictures taken around the Connecticut River
 
-4. Project_Images directory
+3. Project_Images directory
 
    - Screenshots of webpages for Qurantine-Recipe-Machine, Password-Generator
 
@@ -32,7 +28,6 @@ Create a dynamic and updateable portfolio website that showcases "Full Stack Dev
 
 # Webpages
 
-- [About Webpage - https://lucpizz.github.io/Portfolio/about.html](https://lucpizz.github.io/Portfolio/about.html)
-- [Project Webpage - https://lucpizz.github.io/Portfolio/projects.html](https://lucpizz.github.io/Portfolio/projects.html)
-- [Picture Webpage - https://lucpizz.github.io/Portfolio/pictures.html](https://lucpizz.github.io/Portfolio/pictures.html)
-
+- [About Webpage - https://lucpizz.github.io/portfolio-two/about.html](https://lucpizz.github.io/portfolio-two/about.html)
+- [Project Webpage - https://lucpizz.github.io/portfolio-two/projects.html](https://lucpizz.github.io/portfolio-two/projects.html)
+- [Picture Webpage - https://lucpizz.github.io/portfolio-two/pictures.html](https://lucpizz.github.io/portfolio-two/pictures.html)
