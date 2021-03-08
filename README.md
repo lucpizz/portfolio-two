@@ -23,7 +23,7 @@ Create a dynamic and updateable portfolio website that showcases "Full Stack Dev
 
 3. Project_Images directory
 
-   - Screenshots of webpages for Qurantine-Recipe-Machine, Password-Generator
+   - Screenshots of webpages for Qurantine-Recipe-Machine, Password-Generator, and Rate-IT
 
 ---
 
